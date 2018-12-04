@@ -1,0 +1,12 @@
+{
+    "title": "Stage Basecamp KUIU.COM",
+    "baseURL": "http:\/\/stage.basecamp.kuiu.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "params": {
+        "loginId": 1759227,
+        "subfolder": ""
+    }
+}
